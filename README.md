@@ -2,7 +2,7 @@
 
 This is a skill demonstration project.
 
-I have built a simple web applications using python based FLASK framework (FLASK). It's not a fullstack application. It just has 
+I have built a simple web applications using python based FLASK framework. It's not a fullstack application. It just has 
 frontend and middle application layer. It accepts user's name as input and then greets them by calling there name. 
 
 ### How To Run
